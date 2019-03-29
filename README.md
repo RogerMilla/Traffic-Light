@@ -24,7 +24,7 @@ Button criteria
   
   Blue Led 
 
-       - Everytime the button is short pressed it will blink once.
+       - Every time the button is short pressed it will blink once.
        - For long press, it will blink once for each second, making easier to know how many seconds you have pressed it. 
        
 This project was developed using C language and implemented on STM32F4 Discovery Kit. 
